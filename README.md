@@ -1,4 +1,5 @@
-Hi, I'm Kazvin  
+Hi!  
+I'm Kazvin  
 I make programs in my free time  
 
 The two programming languages that I learned are Python and C++.  
